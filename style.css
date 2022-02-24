@@ -39,3 +39,17 @@ main h3{
     padding: 4px 60px;
     margin-top: 10px;
 }
+main h3:hover
+{
+    /* color: whitesmoke; */
+    font-size: 30px;
+    font-weight: bolder;
+    max-width: 800px;
+    width: 96%;
+    border-radius: 50px;
+    background-color: rgba(130, 93, 168,0.4);
+    margin: 0 auto;
+    text-shadow:1px 1px 8px red;
+    padding: 4px 60px;
+    margin-top: 10px;
+}
