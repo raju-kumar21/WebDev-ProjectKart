@@ -28,7 +28,7 @@ main h1{
 }
 
 main h1:hover{
-            text-shadow: 1px 3px 20px green;
+            text-shadow: 1px 3px 20px rgb(0,255,0);
 }
 
 main h3{
