@@ -80,7 +80,7 @@ git push -u origin <your_branch_name>
 
 ## Our valuable Contributors👩‍💻👨‍💻 :
 
-<a href="https://github.com/account">
+<a href="https://github.com/raju-kumar21">
   <img src="https://avatars.githubusercontent.com/u/97028776?v=4" />
 </a>
 
