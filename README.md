@@ -80,8 +80,8 @@ git push -u origin <your_branch_name>
 
 ## Our valuable Contributors👩‍💻👨‍💻 :
 
-<a href="https://github.com/khushi-purwar/WebDev-ProjectKart/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=khushi-purwar/WebDev-ProjectKart" />
+<a href="https://github.com/account">
+  <img src="https://avatars.githubusercontent.com/u/97028776?v=4" />
 </a>
 
 
